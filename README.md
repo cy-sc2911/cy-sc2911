@@ -1,4 +1,4 @@
-## 👋 Hi, I am culious.
+## 👋 Hi, I am Culious.
 
 🎯 Cybersecurity enthusiast focusing on:
 - Networking fundamentals
