@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I am culious.
 
-<!--
-**cy-sc2911/cy-sc2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity enthusiast focusing on:
+- Networking fundamentals
+- Linux & system security
+- Blue Team / Defensive security (or Red Team if applicable)
+- Ethical hacking basics
 
-Here are some ideas to get you started:
+📚 Currently learning:
+- TCP/IP, DNS, HTTP
+- Linux command line
+- Bash / Python
+- TryHackMe / Hack The Box labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools:
+- Linux (Pop OS!/Kali)
+- Git & GitHub
+- Coursera
+- TryHackMe
+- Wireshark
+- Nmap
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/shela-saran-188372376/
