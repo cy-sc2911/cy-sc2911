@@ -12,11 +12,12 @@
 - Bash / Python
 - TryHackMe / Hack The Box labs
 
+📚 Completed:
+- Coursera Google Cybersecurity
+
 🛠 Tools:
 - Linux (Pop OS!/Kali)
 - Git & GitHub
-- Coursera
-- TryHackMe
 - Wireshark
 - Nmap
 
