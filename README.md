@@ -2,15 +2,15 @@
 
 🎯 Cybersecurity enthusiast focusing on:
 - Networking fundamentals
-- Linux & system security
+- Linux & Windows system security
 - Blue Team / Defensive security (or Red Team if applicable)
 - Ethical hacking basics
 
 📚 Currently learning:
-- TCP/IP, DNS, HTTP
+- TCP/IP, DNS, HTTP/HTTPS
 - Linux command line
 - Bash / Python
-- TryHackMe / Hack The Box labs
+- TryHackMe
 
 📚 Completed:
 - Coursera Google Cybersecurity
@@ -18,7 +18,8 @@
 
 🛠 Tools:
 - Linux (Pop OS!/Kali)
-- Git & GitHub
+- Cisco Packet Tracer
+- GitHub
 - Wireshark
 - Nmap
 
