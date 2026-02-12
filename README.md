@@ -15,6 +15,7 @@
 📚 Completed:
 - Coursera Google Cybersecurity
 - Cisco Packet Tracer
+- Cisco Introduction to Cybersecurity
 
 🛠 Tools:
 - Linux (Pop OS!/Kali)
