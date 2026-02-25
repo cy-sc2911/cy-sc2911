@@ -18,7 +18,7 @@
 - Cisco Introduction to Cybersecurity
 
 🛠 Tools:
-- Linux (Pop OS!/Kali)
+- Linux (Debian/Pop OS!/Kali)
 - Cisco Packet Tracer
 - GitHub
 - Wireshark
