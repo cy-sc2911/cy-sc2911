@@ -23,6 +23,3 @@
 - GitHub
 - Wireshark
 - Nmap
-
-📫 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/shela-saran-188372376/
