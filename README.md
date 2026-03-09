@@ -16,6 +16,7 @@
 - Coursera Google Cybersecurity
 - Cisco Packet Tracer
 - Cisco Introduction to Cybersecurity
+- Cisco Networking Basics
 
 🛠 Tools:
 - Linux (Debian/Pop OS!/Kali)
