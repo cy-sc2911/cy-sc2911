@@ -19,7 +19,7 @@
 - Cisco Networking Basics
 
 🛠 Tools:
-- Linux (Debian/Pop OS!/Kali)
+- Linux (Debian/Pop OS!/Kali/Arch Linux)
 - Cisco Packet Tracer
 - GitHub
 - Wireshark
