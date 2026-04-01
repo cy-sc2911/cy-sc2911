@@ -10,16 +10,15 @@
 - TCP/IP, DNS, HTTP/HTTPS
 - Linux command line
 - Bash / Python
-- TryHackMe
+- TryHackMe interactive training rooms
 
 📚 Completed:
 - Coursera Google Cybersecurity
-- Cisco Packet Tracer
 - Cisco Introduction to Cybersecurity
 - Cisco Networking Basics
 
 🛠 Tools:
-- Linux (Debian/Pop OS!/Kali/Arch Linux)
+- Linux (Kali | Debian | Arch Linux) & Windows (10 | 11 )
 - Cisco Packet Tracer
 - GitHub
 - Wireshark
