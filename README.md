@@ -51,3 +51,27 @@ Still learning. Always improving.
 ```
 
 > *'I have no special talent. I am only passionately curious.'* — Albert Einstein
+
+---
+
+## 🛡️ Cybersecurity & GitHub Stats
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Culious1/tryhackme-badge/main/assets/tryhackme-badge.png" height="120"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Culious1&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Culious1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Culious1&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</p>
