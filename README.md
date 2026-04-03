@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm cy-sc2911</h1>
+<h1 align="center">Hello there 👋</h1>
 
 <p align="center">
   <em>Cybersecurity enthusiast on a mission to break things (ethically) and defend them better.</em>
