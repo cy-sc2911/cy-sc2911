@@ -51,9 +51,3 @@ Still learning. Always improving.
 ```
 
 > *'I have no special talent. I am only passionately curious.'* — Albert Einstein
-
----
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/cy-sc2911.png" alt="TryHackMe Badge" />
-</p>
