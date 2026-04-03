@@ -41,3 +41,19 @@
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 📈 Current Status
+
+```
+Still learning. Always improving.
+```
+
+> *'I have no special talent. I am only passionately curious.'* — Albert Einstein
+
+---
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cy-sc2911.png" alt="TryHackMe Badge" />
+</p>
