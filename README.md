@@ -1,25 +1,43 @@
-## 👋 Hello World.
+<h1 align="center">Hey there 👋 I'm cy-sc2911</h1>
 
-🎯 Cybersecurity enthusiast focusing on:
-- Networking fundamentals
-- Linux & Windows system security
-- Blue Team / Defensive security (or Red Team if applicable)
-- Ethical hacking basics
+<p align="center">
+  <em>Cybersecurity enthusiast on a mission to break things (ethically) and defend them better.</em>
+</p>
 
-📚 Currently learning:
-- TCP/IP, DNS, HTTP/HTTPS
-- Linux command line
-- Bash / Python
-- TryHackMe interactive training rooms
+---
 
-📚 Completed:
-- Coursera Google Cybersecurity
-- Cisco Introduction to Cybersecurity
-- Cisco Networking Basics
+## 🎯 Focus Areas
 
-🛠 Tools:
-- Linux (Kali | Debian | Arch Linux) & Windows (10 | 11 )
-- Cisco Packet Tracer
-- GitHub
-- Wireshark
-- Nmap
+- 🌐 **Networking Fundamentals** — Protocols, topologies, and how data moves
+- 🛡️ **Blue Team / Defensive Security** — Detection, monitoring, and incident response
+- ⚔️ **Red Team Basics** — Understanding the attacker's mindset
+- 🐧 **Linux & Windows System Security** — Hardening, permissions, and system internals
+
+---
+
+| Topic | Resource |
+|---|---|
+| TCP/IP · DNS · HTTP/HTTPS | Self-study & labs |
+| Linux Command Line | Hands-on practice |
+| Bash & Python scripting | Building tools & automating tasks |
+| Defensive and offensive techniques | TryHackMe interactive rooms |
+
+---
+
+## ✅ Certifications & Completed Courses
+
+- 🏅 **Google Cybersecurity Certificate** — Coursera
+- 🏅 **Introduction to Cybersecurity** — Cisco Networking Academy
+- 🏅 **Networking Basics** — Cisco Networking Academy
+
+---
+
+## 🛠 Tools & Platforms
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
