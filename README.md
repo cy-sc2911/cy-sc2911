@@ -58,7 +58,7 @@ Still learning. Always improving.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/https://tryhackme.com/p/Culious1/tryhackme-badge/main/assets/tryhackme-badge.png" height="120"/>
+<img src="https://raw.githubusercontent.com/https://tryhackme.com/Culious1/tryhackme-badge/main/assets/tryhackme-badge.png" height="120"/>
 
 </p>
 
