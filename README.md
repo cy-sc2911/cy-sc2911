@@ -58,15 +58,15 @@ Still learning. Always improving.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Culious1/tryhackme-badge/main/assets/tryhackme-badge.png" height="120"/>
+<img src="https://raw.githubusercontent.com/p/Culious1/tryhackme-badge/main/assets/tryhackme-badge.png" height="120"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Culious1&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p/Culious1&theme=tokyonight&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Culious1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=p/Culious1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
 </p>
 
