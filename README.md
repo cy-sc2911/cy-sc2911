@@ -7,8 +7,6 @@ Cybersecurity professional with 10 years of operational experience in data gover
 
 **Seeking:** IT Security, Security Operations, Incident Response, or Compliance roles
 
----
-
 ## 🛠 Technical Stack
 
 ### Languages & Scripting
@@ -29,8 +27,6 @@ Kali Linux • Debian • Ubuntu • Windows 10/11
 | **Security Labs** | TryHackMe • Cisco Packet Tracer |
 | **Development** | GitHub • Git |
 
----
-
 ## 🏆 Certifications
 
 - **Google Cybersecurity Professional Certificate** — Coursera
@@ -39,8 +35,6 @@ Kali Linux • Debian • Ubuntu • Windows 10/11
 - **Cisco Networking Academy**
   - Introduction to Cybersecurity
   - Networking Basics (IP Addressing, Subnetting, Routing, DHCP, DNS)
-
----
 
 ## 💻 Featured Projects
 
@@ -67,16 +61,12 @@ Kali Linux • Debian • Ubuntu • Windows 10/11
 | **CISCO Networking Devices** | Network design, Ethernet switching, IPv4, ARP, DNS, DHCP, transport layer, IOS CLI | Cisco, Networking |
 | **Cisco Networking Basics** | Hands-on labs: IP addressing, subnetting, routing, switching, wireless configuration | Packet Tracer |
 
----
-
 ## 📚 Learning Path
 
 - ✅ **Fundamentals:** Networking protocols, TCP/IP stack, system security
 - ✅ **Certifications:** Google Cybersecurity + Cisco Networking
 - 🔄 **Hands-On Labs:** TryHackMe rooms, Cisco Packet Tracer labs, custom tools
 - 🎯 **Current Focus:** Advanced vulnerability assessment, SOC operations, incident response
-
----
 
 ## 💡 Core Competencies
 
@@ -90,8 +80,6 @@ Kali Linux • Debian • Ubuntu • Windows 10/11
 | Blue Team / Defensive Operations | Intermediate |
 | Red Team / Offensive Techniques | Intermediate |
 
----
-
 ## 🚀 Philosophy
 
 > *'I have no special talent. I am only passionately curious.'* — Albert Einstein
@@ -101,8 +89,6 @@ I believe in:
 - **Continuous learning:** The security landscape evolves constantly
 - **Practical skills:** Labs and real-world scenarios over theory alone
 - **Accountability:** Security is everyone's responsibility
-
----
 
 ## 📊 GitHub Activity
 
