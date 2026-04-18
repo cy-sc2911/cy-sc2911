@@ -1,8 +1,6 @@
 > **Cybersecurity Professional** | Blue Team | Red Team  
 > Breaking things ethically · Defending better
 
----
-
 ## 🎯 About Me
 
 Cybersecurity professional with 10 years of operational experience in data governance and security operations. I combine hands-on technical skills with industry-recognized certifications, specializing in both offensive and defensive security disciplines.
