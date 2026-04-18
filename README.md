@@ -71,16 +71,6 @@ Kali Linux • Debian • Ubuntu • Windows 10/11
 
 ---
 
-## 🔗 Links
-
-- **GitHub:** [github.com/cy-sc2911](https://github.com/cy-sc2911)
-- **LinkedIn:** [linkedin.com/in/shela-saran-188372376](https://linkedin.com/in/shela-saran-188372376)
-- **TryHackMe:** [tryhackme.com/p/Culious1](https://tryhackme.com/p/Culious1)
-- **Email:** lalame1505@hotmail.com
-- **Phone:** +63 927 517 1912
-
----
-
 ## 📚 Learning Path
 
 - ✅ **Fundamentals:** Networking protocols, TCP/IP stack, system security
