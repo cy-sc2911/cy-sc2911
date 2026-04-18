@@ -1,53 +1,123 @@
-<h1 align="center">Hello there 👋</h1>
-
-<p align="center">
-  <em>Cybersecurity enthusiast on a mission to break things (ethically) and defend them better.</em>
-</p>
+> **Cybersecurity Professional** | Blue Team | Red Team  
+> Breaking things ethically · Defending better
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 About Me
 
-- 🌐 **Networking Fundamentals** — Protocols, topologies, and how data moves
-- 🛡️ **Blue Team / Defensive Security** — Detection, monitoring, and incident response
-- ⚔️ **Red Team Basics** — Understanding the attacker's mindset
-- 🐧 **Linux & Windows System Security** — Hardening, permissions, and system internals
+Cybersecurity professional with 10 years of operational experience in data governance and security operations. I combine hands-on technical skills with industry-recognized certifications, specializing in both offensive and defensive security disciplines.
 
----
-
-| Topic | Resource |
-|---|---|
-| TCP/IP · DNS · HTTP/HTTPS | Self-study & labs |
-| Linux Command Line | Hands-on practice |
-| Bash & Python scripting | Building tools & automating tasks |
-| Defensive and offensive techniques | TryHackMe interactive rooms |
+**Seeking:** IT Security, Security Operations, Incident Response, or Compliance roles
 
 ---
 
-## ✅ Certifications & Completed Courses
+## 🛠 Technical Stack
 
-- 🏅 **Google Cybersecurity Certificate** — Coursera
-- 🏅 **Introduction to Cybersecurity** — Cisco Networking Academy
-- 🏅 **Networking Basics** — Cisco Networking Academy
-
----
-
-## 🛠 Tools & Platforms
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 📈 Current Status
-
+### Languages & Scripting
 ```
-Still learning. Always improving.
+Python • Bash • SQL
 ```
+
+### Operating Systems
+```
+Kali Linux • Debian • Ubuntu • Windows 10/11
+```
+
+### Tools & Frameworks
+| Category | Tools |
+|----------|-------|
+| **Network Security** | Wireshark • Nmap • Cisco Packet Tracer |
+| **Cloud & Identity** | Microsoft 365 • Entra ID • Exchange • SharePoint • Intune |
+| **Security Labs** | TryHackMe • Cisco Packet Tracer |
+| **Development** | GitHub • Git |
+
+---
+
+## 🏆 Certifications
+
+- **Google Cybersecurity Professional Certificate** — Coursera
+  - Risk Management, Security Audits, IAM, Incident Response, DLP, Python/Linux/MySQL
+  
+- **Cisco Networking Academy**
+  - Introduction to Cybersecurity
+  - Networking Basics (IP Addressing, Subnetting, Routing, DHCP, DNS)
+
+---
+
+## 💻 Featured Projects
+
+### 🛡️ Blue Team (Defensive Security)
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Microsoft 365 Monitoring** | SOC operations: monitoring Entra ID, Exchange, SharePoint, and Intune security events | Entra ID, SPLUNK, TryHackMe |
+| **Network Security Lab** | Cisco Packet Tracer labs: SOHO setup, hierarchical design, Ethernet switching, DNS/DHCP configuration | Cisco Packet Tracer, Networking |
+
+### ⚔️ Red Team (Offensive Security)
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Custom Brute-Force Tooling** | Python-based password attack tools from TryHackMe labs | Python |
+| **Payload Development** | Custom exploit creation and testing | Python |
+| **Social Engineering Toolkit (SET)** | Phishing fundamentals: techniques, psychology, campaign anatomy, SET framework | Red Team, Penetration Testing |
+| **Vulnerability Scanning** | Intermediate-level vulnerability assessment across systems, networks, and web applications | Nmap, Nikto |
+
+### 🌐 Infrastructure & Networking
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **CISCO Networking Devices** | Network design, Ethernet switching, IPv4, ARP, DNS, DHCP, transport layer, IOS CLI | Cisco, Networking |
+| **Cisco Networking Basics** | Hands-on labs: IP addressing, subnetting, routing, switching, wireless configuration | Packet Tracer |
+
+---
+
+## 🔗 Links
+
+- **GitHub:** [github.com/cy-sc2911](https://github.com/cy-sc2911)
+- **LinkedIn:** [linkedin.com/in/shela-saran-188372376](https://linkedin.com/in/shela-saran-188372376)
+- **TryHackMe:** [tryhackme.com/p/Culious1](https://tryhackme.com/p/Culious1)
+- **Email:** lalame1505@hotmail.com
+- **Phone:** +63 927 517 1912
+
+---
+
+## 📚 Learning Path
+
+- ✅ **Fundamentals:** Networking protocols, TCP/IP stack, system security
+- ✅ **Certifications:** Google Cybersecurity + Cisco Networking
+- 🔄 **Hands-On Labs:** TryHackMe rooms, Cisco Packet Tracer labs, custom tools
+- 🎯 **Current Focus:** Advanced vulnerability assessment, SOC operations, incident response
+
+---
+
+## 💡 Core Competencies
+
+| Skill | Proficiency |
+|-------|-----------|
+| Data Governance & PII/SPII Management | Expert |
+| Network Design & Troubleshooting | Intermediate |
+| Penetration Testing & Vulnerability Scanning | Intermediate |
+| Python Automation & Scripting | Intermediate |
+| Microsoft 365 & Cloud Security | Intermediate |
+| Blue Team / Defensive Operations | Intermediate |
+| Red Team / Offensive Techniques | Intermediate |
+
+---
+
+## 🚀 Philosophy
 
 > *'I have no special talent. I am only passionately curious.'* — Albert Einstein
+
+I believe in:
+- **Ethical hacking:** Understanding attacks to defend better
+- **Continuous learning:** The security landscape evolves constantly
+- **Practical skills:** Labs and real-world scenarios over theory alone
+- **Accountability:** Security is everyone's responsibility
+
+---
+
+## 📊 GitHub Activity
+
+All projects are documented and available on GitHub with detailed explanations, setup instructions, and lab notes. I regularly update repositories with new learnings and completed coursework.
+
+**Last Updated:** April 2026
