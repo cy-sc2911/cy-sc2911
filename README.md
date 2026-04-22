@@ -90,8 +90,4 @@ I believe in:
 - **Practical skills:** Labs and real-world scenarios over theory alone
 - **Accountability:** Security is everyone's responsibility
 
-## 📊 GitHub Activity
-
-All projects are documented and available on GitHub with detailed explanations, setup instructions, and lab notes. I regularly update repositories with new learnings and completed coursework.
-
 **Last Updated:** April 2026
