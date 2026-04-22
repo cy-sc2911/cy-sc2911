@@ -5,8 +5,6 @@
 
 Cybersecurity professional with 10 years of operational experience in data governance and security operations. I combine hands-on technical skills with industry-recognized certifications, specializing in both offensive and defensive security disciplines.
 
-**Seeking:** IT Security, Security Operations, Incident Response, or Compliance roles
-
 ## 🛠 Technical Stack
 
 ### Languages & Scripting
