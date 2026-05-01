@@ -29,10 +29,10 @@ Kali Linux  •  Debian  •  Ubuntu  •  Windows 10/11
 | **Category** | **Tools** |
 |:---|:---|
 | **Network Security** | Wireshark, Nmap, Cisco Packet Tracer, Nikto |
-| **Cloud & Identity** | Microsoft 365, Entra ID, Exchange, SharePoint, Intune |
+| **Cloud & Identity** | Microsoft 365, Entra ID, Intune |
 | **SIEM & Monitoring** | Splunk, TryHackMe Labs, Security event analysis |
 | **Penetration Testing** | Burp Suite, Social Engineering Toolkit (SET), Custom Python tools |
-| **Development & Version Control** | GitHub, Git, CI/CD workflows |
+| **Development & Version Control** | GitHub, Git|
  
 ---
  
