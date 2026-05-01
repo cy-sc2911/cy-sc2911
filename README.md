@@ -40,6 +40,7 @@ Kali Linux  •  Debian  •  Ubuntu  •  Windows 10/11
  
 **Google Cybersecurity Professional Certificate** — Coursera  
 - Risk Management • Security Audits • Identity & Access Management • Incident Response • DLP • Python • Linux • MySQL
+
 **Cisco Networking Academy**  
 - Introduction to Cybersecurity  
 - Networking Basics (IP Addressing • Subnetting • Routing • DHCP • DNS)
