@@ -6,7 +6,7 @@
  
 ## 👤 About Me
  
-Cybersecurity professional with **9+ years of operational experience** in data governance and security operations. I combine hands-on technical expertise with industry-recognized certifications.
+Experienced professional with **9+ years of operational experience** in data governance and security operations. I combine hands-on technical expertise with industry-recognized certifications.
  
 Passionate about continuous learning, ethical hacking, and building secure infrastructure. Currently focused on advanced vulnerability assessment, SOC operations, and incident response.
  
