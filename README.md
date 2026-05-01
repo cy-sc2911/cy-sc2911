@@ -77,24 +77,8 @@ Kali Linux  •  Debian  •  Ubuntu  •  Windows 10/11
  
 - ✅ **Fundamentals** — Networking protocols, TCP/IP stack, system security architecture  
 - ✅ **Certifications** — Google Cybersecurity Professional, Cisco Networking Academy  
-- 🔄 **Hands-On Labs** — TryHackMe, Cisco Packet Tracer, HackTheBox, custom lab environments  
+- 🔄 **Hands-On Labs** — TryHackMe, Cisco Packet Tracer, custom lab environments  
 - 🎯 **Current Focus** — Advanced vulnerability assessment, SOC operations, threat detection, incident response  
----
- 
-## 💡 Core Competencies
- 
-| **Competency** | **Proficiency** |
-|:---|:---|
-| Data Governance & PII/SPII Management | **Expert** |
-| Network Design & Troubleshooting | **Intermediate** |
-| Penetration Testing & Vuln. Scanning | **Intermediate** |
-| Python Automation & Scripting | **Intermediate** |
-| Microsoft 365 & Cloud Security | **Intermediate** |
-| Blue Team / Defensive Operations | **Intermediate** |
-| Red Team / Offensive Techniques | **Intermediate** |
-| Linux Administration | **Intermediate** |
-| Incident Response & Threat Analysis | **Intermediate** |
- 
 ---
  
 ## 🚀 Philosophy & Values
